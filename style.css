@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+ margin-top: 100px;
+ /* Aqui você adiciona a cor de fundo */
+  
+ }
+   
+  button {
+   padding: 10px 20px;
+   font-size: 16px;
+ margin: 10px;
+   }
+   
+   #nao {
+    /* Adicione estilos para o botão "Não" aqui, se desejar */
+   }
+   
+   #resposta {
+    display: none;
+ margin-top: 20px;
+    font-size: 24px;
+ }
+  
